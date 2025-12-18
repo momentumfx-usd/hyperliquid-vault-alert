@@ -9,8 +9,8 @@ TO_EMAIL = "hs88008811@gmail.com"
 
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
-EMAIL_USER = "YOUR_GMAIL@gmail.com"
-EMAIL_PASS = "YOUR_GMAIL_APP_PASSWORD"
+EMAIL_USER = "atrader2501@gmail.com"
+EMAIL_PASS = "hefq rzhu pogt vsdd"
 # ============================================
 
 URL = "https://api.hyperliquid.xyz/info"
