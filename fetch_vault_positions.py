@@ -5,7 +5,7 @@ from email.mime.text import MIMEText
 
 # ================= CONFIG =================
 VAULT_ADDRESS = "0xdfc24b077bc1425ad1dea75bcb6f8158e10df303"
-TO_EMAIL = "hs88008811@gmail.com"
+TO_EMAIL = "atrade2501@gmail.com"
 
 EMAIL_USER = os.getenv("EMAIL_USER")
 EMAIL_PASS = os.getenv("EMAIL_PASS")
