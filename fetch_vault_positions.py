@@ -5,7 +5,7 @@ from email.mime.multipart import MIMEMultipart
 
 # ================== CONFIG ==================
 VAULT_ADDRESS = "0xdfc24b077bc1425ad1dea75bcb6f8158e10df303"
-TO_EMAIL = "atrader2501@gmail.com"
+TO_EMAIL = "hs88008811@gmail.com"
 
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
